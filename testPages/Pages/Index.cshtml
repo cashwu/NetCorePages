@@ -5,6 +5,9 @@
 }
 
 <form method="post">
+    
+    <h3>@Model.Message</h3>
+    
     <table class="table">
         <tr>
             <th>Id</th>
@@ -17,9 +20,9 @@
                 <td>@c.Name</td>
                 <td>
                     <a asp-page="./Edit" asp-route-id="@c.Id">edit</a>
-                    
+
                     <button type="submit" asp-page-handler="delete"
-                            asp-route-id="@c.Id" >delete</button>
+                            asp-route-id="@c.Id">delete</button>
                 </td>
             </tr>
         }

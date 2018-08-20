@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6437a7e9-bb99-45f8-91d9-08364a89ab38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/testPages/Pages/Create.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/Pages/Create.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/Pages/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/Pages/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/Pages/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/Pages/Index.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/bin/Debug/netcoreapp2.1/testPages.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/bin/Debug/netcoreapp2.1/testPages.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/bin/Debug/netcoreapp2.1/testPages.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/bin/Debug/netcoreapp2.1/testPages.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/bin/Debug/netcoreapp2.1/testPages.dll" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/bin/Debug/netcoreapp2.1/testPages.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/bin/Debug/netcoreapp2.1/testPages.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/bin/Debug/netcoreapp2.1/testPages.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/Razor/Pages/Create.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/Razor/Pages/Create.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/Razor/Pages/Edit.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/Razor/Pages/Edit.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/Razor/Pages/Index.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/Razor/Pages/Index.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_CookieConsentPartial.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_Layout.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_Layout.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/Razor/Pages/Shared/_ValidationScriptsPartial.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/testPages.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/testPages.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/testPages.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/testPages.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/testPages.dll" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/testPages.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/testPages.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/testPages.pdb" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-668221521">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="16" />
+          <entry key="cshtml" value="10" />
+          <entry key="json" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="16" />
+          <entry key="JSON" value="2" />
+          <entry key="Razor" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1665" />
+          <entry key="cshtml" value="1171" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1665" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Razor" value="1171" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testPages/Pages/Create.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <marker date="1534745733588" expanded="true" signature="41:79" ph="@..." />
+                <marker date="1534745733588" expanded="true" signature="124:284" ph="&lt;form.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/testPages/Pages/Create.cshtml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="566">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <marker date="1534750645786" expanded="true" signature="6:176" ph="..." />
+                <marker date="1534750645786" expanded="true" signature="203:1100" ph="{...}" />
+                <marker date="1534750645786" expanded="true" signature="246:1098" ph="{...}" />
+                <marker date="1534750645786" expanded="true" signature="575:647" ph="{...}" />
+                <marker date="1534750645786" expanded="true" signature="698:1092" ph="{...}" />
+                <marker date="1534750645786" expanded="true" signature="745:804" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testPages/Pages/Index.cshtml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding>
+                <marker date="1534750250312" expanded="false" signature="6:175" ph="..." />
+                <marker date="1534750250312" expanded="true" signature="202:1002" ph="{...}" />
+                <marker date="1534750250312" expanded="true" signature="244:1000" ph="{...}" />
+                <marker date="1534750250312" expanded="true" signature="337:379" ph="{...}" />
+                <marker date="1534750250312" expanded="true" signature="555:649" ph="{...}" />
+                <marker date="1534750250312" expanded="true" signature="717:994" ph="{...}" />
+                <marker date="1534750250312" expanded="true" signature="824:946" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testPages/Pages/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+              <folding>
+                <marker date="1534750275100" expanded="true" signature="40:81" ph="@..." />
+                <marker date="1534750275100" expanded="true" signature="83:714" ph="&lt;form.../&gt;" />
+                <marker date="1534750275100" expanded="true" signature="146:668" ph="&lt;table.../&gt;" />
+                <marker date="1534750275100" expanded="true" signature="176:244" ph="&lt;tr.../&gt;" />
+                <marker date="1534750275100" expanded="true" signature="253:655" ph="@..." />
+                <marker date="1534750275100" expanded="true" signature="288:655" ph="{...}" />
+                <marker date="1534750275100" expanded="true" signature="311:645" ph="&lt;tr.../&gt;" />
+                <marker date="1534750275100" expanded="true" signature="396:627" ph="&lt;td.../&gt;" />
+                <marker date="1534750275100" expanded="true" signature="493:605" ph="&lt;button.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testPages/Customer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <folding>
+                <marker date="1534746835840" expanded="true" signature="65:222" ph="{...}" />
+                <marker date="1534746835840" expanded="true" signature="93:220" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testPages/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testPages/appsettings.Development.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testPages/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="51" column="49" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
+              <folding>
+                <marker date="1534750506210" expanded="true" signature="6:436" ph="..." />
+                <marker date="1534750506210" expanded="true" signature="457:1844" ph="{...}" />
+                <marker date="1534750506210" expanded="true" signature="484:1842" ph="{...}" />
+                <marker date="1534750506210" expanded="true" signature="543:606" ph="{...}" />
+                <marker date="1534750506210" expanded="true" signature="829:1129" ph="{...}" />
+                <marker date="1534750506210" expanded="true" signature="898:979" ph="{...}" />
+                <marker date="1534750506210" expanded="true" signature="1347:1836" ph="{...}" />
+                <marker date="1534750506210" expanded="true" signature="1486:1563" ph="{...}" />
+                <marker date="1534750506210" expanded="true" signature="1580:1690" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/testPages/Pages/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testPages/Pages/Index.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testPages/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testPages/Pages/Edit.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testPages/AppDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testPages/Pages/Edit.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testPages/Customer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testPages/Pages/Create.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/Razor/Pages/Index.g.cshtml.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/testPages/Pages/Create.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testPages/AppDbContext.cs" />
+        <option value="$PROJECT_DIR$/testPages/Pages/Test.cshtml" />
+        <option value="$PROJECT_DIR$/testPages/Pages/Test.cshtml.cs" />
+        <option value="$PROJECT_DIR$/testPages/Pages/Create.cshtml" />
+        <option value="$PROJECT_DIR$/testPages/Customer.cs" />
+        <option value="$PROJECT_DIR$/testPages/Pages/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/testPages/Pages/Edit.cshtml.cs" />
+        <option value="$PROJECT_DIR$/testPages/Pages/Index.cshtml.cs" />
+        <option value="$PROJECT_DIR$/testPages/Pages/Index.cshtml" />
+        <option value="$PROJECT_DIR$/testPages/Startup.cs" />
+        <option value="$PROJECT_DIR$/testPages/Pages/Create.cshtml.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="testPages" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="testPages" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="testPages" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="testPages" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="testPages" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Pages" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="testPages" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="testPages" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Pages" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Edit.cshtml" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="testPages" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="testPages" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Pages" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Index.cshtml" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="testPages" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="testPages" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="wwwroot" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="in&#9;FILE&#9;file:///Users/cash/RiderProjects/Wallet/testPages/testPages/Pages/Index.cshtml&#10;inde&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="settings.editor.selected.configurable" value="RiderRazorCSFileTemplatesSettingsId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/testPages/bin/Debug/netcoreapp2.1/testPages.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testPages" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/testPages/testPages.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser start="true" url="https://localhost:5001" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6437a7e9-bb99-45f8-91d9-08364a89ab38" name="Default Changelist" comment="" />
+      <created>1534736438977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534736438977</updated>
+      <workItem from="1534736442194" duration="7819000" />
+    </task>
+    <task id="LOCAL-00001" summary="CRUD">
+      <created>1534750073940</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534750073940</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7819000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="DB Browser" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1965812" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="REST Client" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Change Signature" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32967034" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33166832" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CRUD" />
+    <option name="LAST_COMMIT_MESSAGE" value="CRUD" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/testPages/Pages/Test.cshtml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPages/Pages/Test.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPages/AppDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1534736689523" expanded="true" signature="57:261" ph="{...}" />
+            <marker date="1534736689523" expanded="true" signature="101:259" ph="{...}" />
+            <marker date="1534736689523" expanded="true" signature="177:197" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPages/obj/Debug/netcoreapp2.1/Razor/Pages/Index.g.cshtml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="129" column="70" selection-start-line="129" selection-start-column="70" selection-end-line="129" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPages/Pages/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1534745733588" expanded="true" signature="41:79" ph="@..." />
+            <marker date="1534745733588" expanded="true" signature="124:284" ph="&lt;form.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPages/Pages/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+          <folding>
+            <marker date="1534747589233" expanded="true" signature="51:83" ph="@..." />
+            <marker date="1534747589233" expanded="true" signature="130:542" ph="&lt;form.../&gt;" />
+            <marker date="1534747589233" expanded="true" signature="265:464" ph="&lt;div.../&gt;" />
+            <marker date="1534747589233" expanded="true" signature="327:453" ph="&lt;div.../&gt;" />
+            <marker date="1534747589233" expanded="true" signature="474:534" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPages/Pages/Edit.cshtml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <marker date="1534748301822" expanded="true" signature="6:155" ph="..." />
+            <marker date="1534748301822" expanded="true" signature="182:1245" ph="{...}" />
+            <marker date="1534748301822" expanded="true" signature="223:1243" ph="{...}" />
+            <marker date="1534748301822" expanded="true" signature="315:357" ph="{...}" />
+            <marker date="1534748301822" expanded="true" signature="489:707" ph="{...}" />
+            <marker date="1534748301822" expanded="true" signature="592:669" ph="{...}" />
+            <marker date="1534748301822" expanded="true" signature="763:1237" ph="{...}" />
+            <marker date="1534748301822" expanded="true" signature="810:869" ph="{...}" />
+            <marker date="1534748301822" expanded="true" signature="950:1024" ph="{...}" />
+            <marker date="1534748301822" expanded="true" signature="1075:1181" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPages/Pages/Index.cshtml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <marker date="1534750250312" expanded="false" signature="6:175" ph="..." />
+            <marker date="1534750250312" expanded="true" signature="202:1002" ph="{...}" />
+            <marker date="1534750250312" expanded="true" signature="244:1000" ph="{...}" />
+            <marker date="1534750250312" expanded="true" signature="337:379" ph="{...}" />
+            <marker date="1534750250312" expanded="true" signature="555:649" ph="{...}" />
+            <marker date="1534750250312" expanded="true" signature="717:994" ph="{...}" />
+            <marker date="1534750250312" expanded="true" signature="824:946" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPages/Pages/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding>
+            <marker date="1534750275100" expanded="true" signature="40:81" ph="@..." />
+            <marker date="1534750275100" expanded="true" signature="83:714" ph="&lt;form.../&gt;" />
+            <marker date="1534750275100" expanded="true" signature="146:668" ph="&lt;table.../&gt;" />
+            <marker date="1534750275100" expanded="true" signature="176:244" ph="&lt;tr.../&gt;" />
+            <marker date="1534750275100" expanded="true" signature="253:655" ph="@..." />
+            <marker date="1534750275100" expanded="true" signature="288:655" ph="{...}" />
+            <marker date="1534750275100" expanded="true" signature="311:645" ph="&lt;tr.../&gt;" />
+            <marker date="1534750275100" expanded="true" signature="396:627" ph="&lt;td.../&gt;" />
+            <marker date="1534750275100" expanded="true" signature="493:605" ph="&lt;button.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPages/Customer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <marker date="1534746835840" expanded="true" signature="65:222" ph="{...}" />
+            <marker date="1534746835840" expanded="true" signature="93:220" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPages/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPages/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPages/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="51" column="49" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
+          <folding>
+            <marker date="1534750506210" expanded="true" signature="6:436" ph="..." />
+            <marker date="1534750506210" expanded="true" signature="457:1844" ph="{...}" />
+            <marker date="1534750506210" expanded="true" signature="484:1842" ph="{...}" />
+            <marker date="1534750506210" expanded="true" signature="543:606" ph="{...}" />
+            <marker date="1534750506210" expanded="true" signature="829:1129" ph="{...}" />
+            <marker date="1534750506210" expanded="true" signature="898:979" ph="{...}" />
+            <marker date="1534750506210" expanded="true" signature="1347:1836" ph="{...}" />
+            <marker date="1534750506210" expanded="true" signature="1486:1563" ph="{...}" />
+            <marker date="1534750506210" expanded="true" signature="1580:1690" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testPages/Pages/Create.cshtml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <marker date="1534750645786" expanded="true" signature="6:176" ph="..." />
+            <marker date="1534750645786" expanded="true" signature="203:1100" ph="{...}" />
+            <marker date="1534750645786" expanded="true" signature="246:1098" ph="{...}" />
+            <marker date="1534750645786" expanded="true" signature="575:647" ph="{...}" />
+            <marker date="1534750645786" expanded="true" signature="698:1092" ph="{...}" />
+            <marker date="1534750645786" expanded="true" signature="745:804" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
