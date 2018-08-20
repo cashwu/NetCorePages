@@ -1,0 +1,29 @@
+﻿@page
+@model testPages.Pages.IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<form method="post">
+    <table class="table">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+        </tr>
+        @foreach (var c in Model.Customers)
+        {
+            <tr>
+                <td>@c.Id</td>
+                <td>@c.Name</td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@c.Id">edit</a>
+                    
+                    <button type="submit" asp-page-handler="delete"
+                            asp-route-id="@c.Id" >delete</button>
+                </td>
+            </tr>
+        }
+    </table>
+    <a asp-page="./Create">Create</a>
+</form>
+
